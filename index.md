@@ -147,7 +147,7 @@ Since Yenom processes all data locally on your device and doesn't transmit data 
 
 If you have questions or concerns about this Privacy Policy or how Yenom handles your data:
 
-**Email**: support@yenom.app
+**Email**: yenom365help@gmail.com
 
 **Response Time**: We aim to respond to privacy inquiries within 48 hours.
 
@@ -233,7 +233,7 @@ Your privacy is not just a policy—it's how we've built Yenom from the ground u
 
 **This Privacy Policy is effective as of December 27, 2025.**
 
-If you have any questions or concerns, please contact us at **support@yenom.app**.
+If you have any questions or concerns, please contact us at **yenom365help@gmail.com**.
 
 Thank you for trusting Yenom with your subscription tracking.
 
